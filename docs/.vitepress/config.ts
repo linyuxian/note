@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "https://linyuxian.github.io/note/",
+  base: "/note/",
   title: "Note",
   description: "This is note for front-end web developer",
   lastUpdated: true, // 最近更新时间,最后一条内容的更新时间会显示在页面右下角。要启用它，请将lastUpdated选项添加到您的配置中。
