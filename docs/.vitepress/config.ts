@@ -9,7 +9,7 @@ export default defineConfig({
   themeConfig: {
     lastUpdatedText: "最后更新时间",
     footer: {
-      message: "Released under the MIT License.",
+      message: "生命不息 跑路不止",
       copyright: "Copyright © 2023-present Yuxian Lin",
     },
     docFooter: {
@@ -18,7 +18,7 @@ export default defineConfig({
     },
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Home", link: "/" },
+      { text: "首页", link: "/" },
       { text: "面试整理", link: "/interview/" },
       { text: "常用网站", link: "/site/" },
       { text: "规范", link: "/standard/base/name/" },
